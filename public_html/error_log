@@ -1,0 +1,119 @@
+[01-Aug-2017 02:39:51 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/home_classes/dollar_phone_provider_ctrl.php on line 209
+[01-Aug-2017 02:40:07 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/home_classes/dollar_phone_provider_ctrl.php on line 209
+[01-Aug-2017 02:40:22 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/home_classes/dollar_phone_provider_ctrl.php on line 209
+[01-Aug-2017 02:40:40 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/home_classes/dollar_phone_provider_ctrl.php on line 209
+[01-Aug-2017 02:40:59 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/home_classes/dollar_phone_provider_ctrl.php on line 209
+[01-Aug-2017 02:41:12 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/home_classes/dollar_phone_provider_ctrl.php on line 209
+[01-Aug-2017 02:41:59 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/home_classes/dollar_phone_provider_ctrl.php on line 209
+[01-Aug-2017 02:42:11 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/home_classes/dollar_phone_provider_ctrl.php on line 209
+[01-Aug-2017 02:58:10 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/home_classes/dollar_phone_provider_ctrl.php on line 209
+[01-Aug-2017 02:58:21 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/home_classes/dollar_phone_provider_ctrl.php on line 209
+[01-Aug-2017 02:58:43 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/home_classes/dollar_phone_provider_ctrl.php on line 209
+[01-Aug-2017 02:58:54 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/home_classes/dollar_phone_provider_ctrl.php on line 209
+[01-Aug-2017 02:59:07 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/home_classes/dollar_phone_provider_ctrl.php on line 209
+[01-Aug-2017 02:59:59 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/home_classes/dollar_phone_provider_ctrl.php on line 209
+[01-Aug-2017 03:00:18 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/home_classes/dollar_phone_provider_ctrl.php on line 209
+[01-Aug-2017 03:00:53 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/home_classes/dollar_phone_provider_ctrl.php on line 209
+[01-Aug-2017 03:02:51 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/home_classes/dollar_phone_provider_ctrl.php on line 209
+[01-Aug-2017 03:04:14 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/home_classes/dollar_phone_provider_ctrl.php on line 209
+[01-Aug-2017 03:11:54 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/home_classes/dollar_phone_provider_ctrl.php on line 209
+[01-Aug-2017 03:12:26 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/home_classes/dollar_phone_provider_ctrl.php on line 209
+[01-Aug-2017 03:17:58 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/home_classes/dollar_phone_provider_ctrl.php on line 209
+[01-Aug-2017 03:20:21 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/home_classes/dollar_phone_provider_ctrl.php on line 209
+[01-Aug-2017 03:28:00 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/home_classes/dollar_phone_provider_ctrl.php on line 209
+[01-Aug-2017 03:28:07 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/home_classes/dollar_phone_provider_ctrl.php on line 209
+[01-Aug-2017 03:52:41 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/home_classes/dollar_phone_provider_ctrl.php on line 209
+[01-Aug-2017 04:48:13 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/home_classes/dollar_phone_provider_ctrl.php on line 209
+[01-Aug-2017 04:50:42 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/home_classes/dollar_phone_provider_ctrl.php on line 209
+[01-Aug-2017 04:55:24 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/home_classes/dollar_phone_provider_ctrl.php on line 209
+[01-Aug-2017 12:51:53 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/home_classes/dollar_phone_provider_ctrl.php on line 209
+[01-Aug-2017 15:57:29 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/home_classes/dollar_phone_provider_ctrl.php on line 209
+[01-Aug-2017 16:00:31 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/home_classes/dollar_phone_provider_ctrl.php on line 209
+[11-Aug-2017 04:29:41 UTC] PHP Fatal error:  SOAP-ERROR: Parsing WSDL: Couldn't load from 'https://www.dollarphone.com/pmapi?wsdl' : failed to load external entity "https://www.dollarphone.com/pmapi?wsdl"
+ in /home/myringring/mrrapp/controllers/Home.php on line 371
+[11-Aug-2017 04:29:41 UTC] PHP Fatal error:  Call to a member function TopUpRequest() on null in /home/myringring/mrrapp/controllers/Home.php on line 385
+[13-Aug-2017 07:17:21 UTC] PHP Fatal error:  SOAP-ERROR: Parsing WSDL: Couldn't load from 'https://www.dollarphone.com/pmapi?wsdl' : failed to load external entity "https://www.dollarphone.com/pmapi?wsdl"
+ in /home/myringring/mrrapp/controllers/home_classes/dollar_phone_provider_ctrl.php on line 34
+[29-Aug-2017 17:33:36 UTC] PHP Fatal error:  SOAP-ERROR: Parsing WSDL: Couldn't load from 'https://www.dollarphone.com/pmapi?wsdl' : failed to load external entity "https://www.dollarphone.com/pmapi?wsdl"
+ in /home/myringring/mrrapp/controllers/Home.php on line 411
+[29-Aug-2017 17:33:36 UTC] PHP Fatal error:  Call to a member function TopUpRequest() on null in /home/myringring/mrrapp/controllers/Home.php on line 425
+[25-Oct-2017 21:35:31 UTC] PHP Fatal error:  SOAP-ERROR: Encoding: object has no 'responseCode' property in /home/myringring/mrrapp/controllers/Home.php on line 547
+[25-Oct-2017 21:36:24 UTC] PHP Fatal error:  SOAP-ERROR: Encoding: object has no 'responseCode' property in /home/myringring/mrrapp/controllers/Home.php on line 547
+[25-Oct-2017 21:47:48 UTC] PHP Fatal error:  SOAP-ERROR: Encoding: object has no 'responseCode' property in /home/myringring/mrrapp/controllers/Home.php on line 546
+[25-Oct-2017 21:55:18 UTC] PHP Fatal error:  SOAP-ERROR: Encoding: object has no 'TransId' property in /home/myringring/mrrapp/controllers/Home.php on line 547
+[25-Oct-2017 21:55:20 UTC] PHP Fatal error:  SOAP-ERROR: Encoding: object has no 'TransId' property in /home/myringring/mrrapp/controllers/Home.php on line 547
+[25-Oct-2017 21:55:26 UTC] PHP Fatal error:  SOAP-ERROR: Encoding: object has no 'TransId' property in /home/myringring/mrrapp/controllers/Home.php on line 547
+[15-Nov-2017 19:49:50 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/myringring/mrrapp/views/pinlessAdmin/_speed_dials.php on line 24
+[15-Nov-2017 19:50:14 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/myringring/mrrapp/views/pinlessAdmin/_speed_dials.php on line 24
+[18-Nov-2017 23:33:20 UTC] PHP Fatal error:  SOAP-ERROR: Parsing WSDL: Couldn't load from 'https://www.dollarphone.com/pmapi?wsdl' : failed to load external entity "https://www.dollarphone.com/pmapi?wsdl"
+ in /home/myringring/mrrapp/controllers/Home.php on line 465
+[18-Nov-2017 23:33:20 UTC] PHP Fatal error:  Call to a member function TopUpRequest() on null in /home/myringring/mrrapp/controllers/Home.php on line 479
+[23-Nov-2017 23:46:42 UTC] PHP Fatal error:  SOAP-ERROR: Parsing WSDL: Couldn't load from 'https://www.dollarphone.com/pmapi?wsdl' : failed to load external entity "https://www.dollarphone.com/pmapi?wsdl"
+ in /home/myringring/mrrapp/controllers/Home.php on line 465
+[23-Nov-2017 23:46:42 UTC] PHP Fatal error:  Call to a member function TopUpRequest() on null in /home/myringring/mrrapp/controllers/Home.php on line 479
+[23-Nov-2017 23:48:00 UTC] PHP Fatal error:  SOAP-ERROR: Parsing WSDL: Couldn't load from 'https://www.dollarphone.com/pmapi?wsdl' : failed to load external entity "https://www.dollarphone.com/pmapi?wsdl"
+ in /home/myringring/mrrapp/controllers/Home.php on line 465
+[23-Nov-2017 23:48:00 UTC] PHP Fatal error:  Call to a member function TopUpRequest() on null in /home/myringring/mrrapp/controllers/Home.php on line 479
+[23-Nov-2017 23:50:10 UTC] PHP Fatal error:  SOAP-ERROR: Parsing WSDL: Couldn't load from 'https://www.dollarphone.com/pmapi?wsdl' : failed to load external entity "https://www.dollarphone.com/pmapi?wsdl"
+ in /home/myringring/mrrapp/controllers/Home.php on line 465
+[23-Nov-2017 23:50:10 UTC] PHP Fatal error:  Call to a member function TopUpRequest() on null in /home/myringring/mrrapp/controllers/Home.php on line 479
+[06-Dec-2017 03:52:22 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 11982150 bytes) in /home/myringring/mrrsys/core/Output.php on line 456
+[06-Dec-2017 03:52:36 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 11982150 bytes) in /home/myringring/mrrsys/core/Output.php on line 456
+[06-Dec-2017 03:52:50 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 11982150 bytes) in /home/myringring/mrrsys/core/Output.php on line 456
+[06-Dec-2017 03:53:04 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 11982150 bytes) in /home/myringring/mrrsys/core/Output.php on line 456
+[06-Dec-2017 21:07:35 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/myringring/mrrapp/views/pinlessAdmin/_speed_dials.php on line 24
+[06-Dec-2017 21:09:55 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/myringring/mrrapp/views/pinlessAdmin/_speed_dials.php on line 24
+[06-Dec-2017 23:35:50 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/myringring/mrrsys/database/DB_query_builder.php on line 2736
+[06-Dec-2017 23:36:22 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/myringring/mrrsys/database/DB_query_builder.php on line 2736
+[06-Dec-2017 23:36:28 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/myringring/mrrsys/database/DB_query_builder.php on line 2736
+[12-Dec-2017 17:50:06 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/myringring/mrrsys/database/DB_driver.php on line 647
+[12-Dec-2017 17:50:38 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/myringring/mrrsys/database/DB_driver.php on line 647
+[13-Dec-2017 00:28:14 UTC] PHP Fatal error:  SOAP-ERROR: Parsing WSDL: Couldn't load from 'https://www.dollarphone.com/pmapi?wsdl' : failed to load external entity "https://www.dollarphone.com/pmapi?wsdl"
+ in /home/myringring/mrrapp/controllers/Home.php on line 467
+[13-Dec-2017 00:28:14 UTC] PHP Fatal error:  Call to a member function TopUpRequest() on null in /home/myringring/mrrapp/controllers/Home.php on line 481
+[15-Jan-2018 22:34:40 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32 bytes) in /home/myringring/mrrsys/database/drivers/mysqli/mysqli_result.php on line 183
+[15-Jan-2018 22:35:03 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32 bytes) in /home/myringring/mrrsys/database/drivers/mysqli/mysqli_result.php on line 183
+[17-Jan-2018 02:26:03 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/Home.php on line 975
+[17-Jan-2018 02:26:12 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/Home.php on line 975
+[17-Jan-2018 05:27:17 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/Home.php on line 975
+[17-Jan-2018 14:09:16 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/Home.php on line 975
+[17-Jan-2018 16:58:47 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/Home.php on line 975
+[17-Jan-2018 20:31:10 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/Home.php on line 975
+[17-Jan-2018 23:03:37 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/Home.php on line 975
+[18-Jan-2018 01:05:46 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/Home.php on line 975
+[18-Jan-2018 02:25:21 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/Home.php on line 975
+[18-Jan-2018 04:26:42 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/Home.php on line 975
+[18-Jan-2018 17:23:57 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/Home.php on line 975
+[18-Jan-2018 20:33:33 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/Home.php on line 975
+[18-Jan-2018 23:43:16 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/Home.php on line 975
+[19-Jan-2018 03:38:23 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/Home.php on line 975
+[20-Jan-2018 01:45:02 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/Home.php on line 975
+[20-Jan-2018 21:07:02 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/Home.php on line 975
+[21-Jan-2018 00:04:22 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/Home.php on line 975
+[21-Jan-2018 21:57:17 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/Home.php on line 975
+[21-Jan-2018 22:21:44 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/Home.php on line 975
+[22-Jan-2018 15:39:09 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/Home.php on line 975
+[20-Feb-2018 23:29:33 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32 bytes) in /home/myringring/mrrsys/database/drivers/mysqli/mysqli_result.php on line 183
+[24-Feb-2018 00:52:56 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/Home.php on line 988
+[24-Feb-2018 00:54:03 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/Home.php on line 988
+[24-Feb-2018 00:55:00 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/Home.php on line 988
+[24-Feb-2018 17:05:46 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/Home.php on line 988
+[24-Feb-2018 17:06:03 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/Home.php on line 988
+[24-Feb-2018 17:07:13 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/Home.php on line 988
+[24-Feb-2018 18:32:22 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/Home.php on line 988
+[24-Feb-2018 18:36:56 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/Home.php on line 988
+[24-Feb-2018 18:37:13 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/Home.php on line 988
+[24-Feb-2018 18:37:14 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/Home.php on line 988
+[28-Feb-2018 00:55:48 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 86 bytes) in /home/myringring/mrrsys/database/drivers/mysqli/mysqli_result.php on line 183
+[28-Feb-2018 00:56:11 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 86 bytes) in /home/myringring/mrrsys/database/drivers/mysqli/mysqli_result.php on line 183
+[13-Mar-2018 20:08:57 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/Home.php on line 988
+[13-Mar-2018 20:09:19 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/Home.php on line 988
+[13-Mar-2018 20:09:36 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/Home.php on line 988
+[13-Mar-2018 20:10:51 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/Home.php on line 988
+[09-Apr-2018 04:35:01 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/Home.php on line 988
+[09-Apr-2018 04:35:12 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/Home.php on line 988
+[09-Apr-2018 04:35:22 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/Home.php on line 988
+[09-Apr-2018 04:36:14 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/Home.php on line 988
+[10-Apr-2018 19:47:45 UTC] PHP Fatal error:  Call to a member function update() on null in /home/myringring/mrrapp/controllers/Home.php on line 988
+[15-Jun-2018 03:44:08 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32 bytes) in /home/myringring/mrrsys/database/drivers/mysqli/mysqli_result.php on line 183
+[15-Jun-2018 03:44:23 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32 bytes) in /home/myringring/mrrsys/database/drivers/mysqli/mysqli_result.php on line 183
