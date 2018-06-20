@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = $_SERVER['SERVER_NAME'] == 'myringold' ? 'http://myringold' : 'http://www.myringring.net';
+$config['base_url'] = $_SERVER['SERVER_NAME'] == 'myring' ? 'http://myring' : 'http://www.myringring.net';
 if($_SERVER['SERVER_PORT'] != '80')
 {
 	$config['base_url'] .= ':'.$_SERVER['SERVER_PORT'];

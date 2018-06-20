@@ -70,7 +70,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | The $query_builder variables lets you determine whether or not to load
 | the query builder class.
 */
-$active_group = $_SERVER['SERVER_NAME'] == 'myringold' ? 'default' : 'prod';
+$active_group = $_SERVER['SERVER_NAME'] == 'myring' ? 'default' : 'prod';
 $query_builder = TRUE;
 
 $db['default'] = array(
